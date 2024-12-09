@@ -1,0 +1,35 @@
+/*
+*   A stylesheet for my youtube channels website
+*   Author: Connor Larson
+*   Version:1.0
+*   Last edit:4/25/24
+*/
+.logo{
+ margin:auto;
+ display:block;
+}
+
+
+.disclaimer{
+    color:red;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+    font-weight:bold;
+    text-decoration: underline;
+}
+
+.directories{
+    border: 2px solid purple;
+	border-radius: 10px;
+	width: 795px;
+}
+.background{
+    background-image: url(Pictures/background.png);
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.portrait{
+    display:block;
+    
+}
